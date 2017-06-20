@@ -5,3 +5,16 @@
 .w_s {
   padding: 2em;
 }
+
+.text-header{
+    position: absolute;
+    top: 200px;
+    text-align: center;
+    width:100%;
+}
+
+.image-header{
+    position: relative;
+    width: 100%;
+}
+
