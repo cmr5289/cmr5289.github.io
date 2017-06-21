@@ -8,6 +8,10 @@ body{
   background-image: url("http://joerobusbachelor.party/static/background.jpeg"); 
 }
 
+a{
+  color: white;
+}
+
 .w_s {
   padding: 2em;
 }
