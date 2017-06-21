@@ -12,7 +12,7 @@ imageName = "http://joerobusbachelor.party/static/IMG" + firstSet + ".JPG"
 x.src=imageName
 
 var x = document.getElementsByClassName("image-header-two")[0];
-mageName = "http://joerobusbachelor.party/static/IMG" + secondSet + ".JPG"
+imageName = "http://joerobusbachelor.party/static/IMG" + secondSet + ".JPG"
 x.src=imageName
 
 var x = document.getElementsByClassName("image-header-three")[0];
