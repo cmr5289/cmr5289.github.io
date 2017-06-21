@@ -14,11 +14,16 @@
 }
 
 .image-header{
-    position: relative;
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+    padding:1%;
 }
 
 .image-header-space{
-    height: 270px;
-    width:  480px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
 }
 
