@@ -2,6 +2,10 @@
   font-family: "Alice", "Times New Roman", Times, serif;
 }
 
+body{
+  background-image: url("static/background.jpeg"); 
+}
+
 .w_s {
   padding: 2em;
 }
