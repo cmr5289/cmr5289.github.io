@@ -13,8 +13,6 @@ body{
 }
 
 .text-header{
-    position: absolute;
-    top: -400px;
     text-align: center;
     width:100%;
 }
