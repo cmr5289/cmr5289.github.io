@@ -15,7 +15,10 @@
 
 .image-header{
     position: relative;
+}
+
+.image-header-space{
     height: 270px;
-    width: 480px;
+    width:  480px;
 }
 
