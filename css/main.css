@@ -12,6 +12,10 @@ body{
   padding: 2em;
 }
 
+.container{
+  background: rgba(105, 105, 105, 0.7);
+}
+
 .text-header{
   text-align: center;
   top: -400px;  
