@@ -1,9 +1,9 @@
 * {
   font-family: "Alice", "Times New Roman", Times, serif;
-  color: white;
 }
 
 body{
+  color: white;
   background-image: url("http://joerobusbachelor.party/static/background.jpeg"); 
 }
 
