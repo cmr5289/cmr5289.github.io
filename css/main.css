@@ -29,9 +29,11 @@ a{
 
 .image-header{
     flex-shrink: 0;
-    min-width: 100%;
-    min-height: 100%;
-    padding:1%;
+    min-width: 75%;
+    min-height: 75%;
+    padding:2%;
+    margin: 3%;
+    background-color: rgba(105, 105, 105, 1);
 }
 
 .image-header-space{
