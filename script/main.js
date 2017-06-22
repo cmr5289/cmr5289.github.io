@@ -1,9 +1,12 @@
 
-number = Math.floor(Math.random() * 10);
-var firstSet = number
-var secondSet = number + 10
-var thirdSet = number + 20
-var fourthSet = number + 30
+numberOne = Math.floor(Math.random() * 10);
+numberTwo = Math.floor(Math.random() * 10);
+numberThree = Math.floor(Math.random() * 10);
+numberFour = Math.floor(Math.random() * 10);
+var firstSet = numberOne
+var secondSet = numberTwo + 10
+var thirdSet = numberThree + 20
+var fourthSet = numberFour + 30
 
 
 
